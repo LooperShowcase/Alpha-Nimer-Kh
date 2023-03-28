@@ -1,0 +1,53 @@
+h1 {
+  color: blue;
+}
+
+p {
+  color: rgb(3, 3, 56);
+  background-color: rgb(133, 11, 11);
+}
+h2 {
+  color: brown;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000742;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #950909;
+}
+
+img {
+  width: 600;
+}
+
+body {
+  background-color: #950909;
+}
+
+p {
+  font-size: 20px;
+}
